@@ -1,7 +1,7 @@
 # Blender2Ogre-Build
 ## Repositorio
-El repositorio contiene una copia de Blender en la versión 2.70 con el add-on de blender2Ogre (v0.6.0) instalado.
-## Instalación
+El repositorio contiene una copia de Blender en la versión 2.70 con el add-on de blender2Ogre (v0.6.0) instalado, y todas sus dependencias para que no tengas que darte de bofetadas con cosas que no entiendes, para que puedas exportar tus cosicas de ogre sin que pasen cosas turcas,
+## Uso
 Para arrancar Blender, entrar en la carpeta *blender-2.70-windows64* y ejecutar el .exe.
 ## Uso
 Para que genere automáticamente el .mesh, copiar la carpeta OgreCommanLineTools al directorio raiz (C:).
